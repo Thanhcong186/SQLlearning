@@ -1,2 +1,2 @@
 # SQLlearning
-My SQL exerice backup
+My SQL exercicses backup
